@@ -1,2 +1,3 @@
 # FileHandeling-Java
-FileHandeling in java. Basic operation for filehandeling along with filehandeling projects.  
+FileHandeling in Java.
+Basic operation for filehandeling along with filehandeling projects.  
