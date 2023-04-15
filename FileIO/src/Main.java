@@ -14,6 +14,7 @@ public class Main {
         fileWriter.write("This is java code.\n");
         fileWriter.write("This is java code.\n");
         fileWriter.write("This is java code.\n");
+        fileWriter.write("This is java code.\n");
         fileWriter.close();
 
         //Read from the file
